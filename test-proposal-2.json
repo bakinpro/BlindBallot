@@ -1,0 +1,27 @@
+{
+  "title": "Company Remote Work Policy Update",
+  "description": "As we evaluate our post-pandemic work arrangements, we want to gather employee input on the optimal remote work policy. Your anonymous vote will help shape our future workplace flexibility and ensure we maintain productivity while supporting work-life balance.",
+  "options": [
+    "Fully remote (work from anywhere)",
+    "Hybrid - 3 days office, 2 days remote",
+    "Hybrid - 2 days office, 3 days remote", 
+    "Flexible hybrid (employee choice)",
+    "Return to full-time office"
+  ],
+  "duration_hours": 168,
+  "category": "HR Policy",
+  "voting_type": "single_choice",
+  "minimum_participants": 10,
+  "additional_info": {
+    "context": "This policy will take effect Q2 2024 and will be reviewed quarterly based on business needs and employee feedback.",
+    "considerations": [
+      "Team collaboration requirements",
+      "Individual productivity preferences", 
+      "Client meeting schedules",
+      "Office space optimization",
+      "Employee satisfaction and retention"
+    ],
+    "implementation_timeline": "New policy implementation: 30 days after vote conclusion",
+    "confidentiality": "All votes are completely anonymous and encrypted using FHEVM technology"
+  }
+}
