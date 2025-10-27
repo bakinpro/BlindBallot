@@ -1,0 +1,30 @@
+TEST PROPOSAL 1 (Support/Oppose):
+==================================
+Title: Implement Quarterly Team Building Events
+Description: Proposal to organize quarterly team building activities to improve collaboration and team morale. Events would include workshops, outdoor activities, and social gatherings during work hours.
+Options: 
+- Support
+- Oppose
+
+TEST PROPOSAL 2 (Approve/Reject):
+=================================
+Title: Switch to Renewable Energy Provider
+Description: Proposal to switch our office energy supply to 100% renewable sources. This aligns with our sustainability goals and corporate social responsibility commitments.
+Options:
+- Approve
+- Reject
+
+TEST PROPOSAL 3 (Yes/No):
+=========================
+Title: Allow Personal Device Usage for Work
+Description: Proposal to permit employees to use personal laptops and devices for work purposes with appropriate security measures and IT support.
+Options:
+- Yes
+- No
+
+QUICK COPY-PASTE FORMAT:
+========================
+Title: Employee Wellness Program Expansion
+Description: Should we expand our current wellness program to include mental health counseling, fitness memberships, and flexible wellness days?
+Option 1: Support
+Option 2: Oppose
