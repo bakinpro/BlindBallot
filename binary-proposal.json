@@ -1,0 +1,21 @@
+{
+  "title": "Upgrade Office Internet Infrastructure",
+  "description": "Proposal to upgrade our current internet connection from 100Mbps to 1Gbps fiber optic connection. This will improve video conferencing quality, reduce file transfer times, and support our growing team's bandwidth needs.",
+  "options": [
+    "Approve",
+    "Reject"
+  ],
+  "duration_hours": 24,
+  "category": "Infrastructure",
+  "voting_type": "yes_no",
+  "additional_info": {
+    "cost": "Monthly cost increase of $200 for significantly improved performance",
+    "benefits": [
+      "Faster file uploads/downloads",
+      "Better video call quality",
+      "Reduced connection interruptions",
+      "Support for future team growth"
+    ],
+    "timeline": "Upgrade can be completed within 2 weeks of approval"
+  }
+}
