@@ -1,0 +1,41 @@
+{
+  "name": "anonvote-contracts",
+  "version": "1.0.0",
+  "description": "FHEVM Smart Contracts for Anonymous Voting System",
+  "main": "index.js",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "deploy": "hardhat run scripts/deploy.js",
+    "deploy:sepolia": "hardhat run scripts/deploy.js --network sepolia",
+    "verify": "hardhat verify",
+    "node": "hardhat node",
+    "clean": "hardhat clean"
+  },
+  "devDependencies": {
+    "@fhevm/core-contracts": "^0.7.0-9",
+    "@fhevm/hardhat-plugin": "^0.0.1-0",
+    "@fhevm/mock-utils": "^0.0.1-0",
+    "@fhevm/solidity": "^0.7.0-4",
+    "@nomicfoundation/hardhat-chai-matchers": "^2.0.0",
+    "@nomicfoundation/hardhat-ethers": "^3.0.5",
+    "@nomicfoundation/hardhat-network-helpers": "^1.0.0",
+    "@types/chai": "^4.3.11",
+    "@types/mocha": "^10.0.6",
+    "@types/node": "^20.10.6",
+    "@zama-fhe/relayer-sdk": "^0.1.2",
+    "chai": "^4.4.1",
+    "ethers": "^6.9.2",
+    "fhevmjs": "^0.6.2",
+    "hardhat": "^2.19.4",
+    "hardhat-gas-reporter": "^1.0.9",
+    "solidity-coverage": "^0.8.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.6",
+    "dotenv": "^17.2.2",
+    "fhevm": "^0.4.0"
+  }
+}
