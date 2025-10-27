@@ -1,0 +1,33 @@
+{
+  "name": "anonvote-fhevm",
+  "version": "1.0.0",
+  "description": "Anonymous Voting System based on FHEVM for Meeting Scenarios",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npm run frontend:dev",
+    "dev:frontend-only": "cd frontend && npm run dev",
+    "frontend:dev": "cd frontend && npm run dev",
+    "frontend:build": "cd frontend && npm run build",
+    "frontend:build:github-pages": "cd frontend && npm run build:github-pages",
+    "backend:dev": "cd backend && npm run dev",
+    "backend:install-cli": "cd backend && npm install -g vercel",
+    "contract:compile": "cd contracts && npx hardhat compile",
+    "contract:deploy": "cd contracts && npx hardhat run scripts/deploy.js",
+    "test": "cd contracts && npx hardhat test",
+    "install:all": "npm install && cd frontend && npm install && cd ../contracts && npm install --legacy-peer-deps && cd ../backend && npm install",
+    "fix:contracts": "cd contracts && npm install --legacy-peer-deps"
+  },
+  "keywords": [
+    "FHEVM",
+    "anonymous",
+    "voting",
+    "blockchain",
+    "privacy",
+    "homomorphic encryption"
+  ],
+  "author": "AnonVote Team",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
