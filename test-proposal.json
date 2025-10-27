@@ -1,0 +1,26 @@
+{
+  "title": "Blockchain Development Framework Selection",
+  "description": "We need to choose the primary blockchain development framework for our upcoming DeFi project. This decision will impact our development timeline, security features, and scalability. Please vote for your preferred option based on technical merit, community support, and long-term viability.",
+  "options": [
+    "Ethereum with Solidity",
+    "Polygon zkEVM",
+    "Arbitrum One",
+    "Base (Coinbase L2)",
+    "Other (specify in comments)"
+  ],
+  "duration_hours": 72,
+  "category": "Technical Decision",
+  "voting_type": "single_choice",
+  "minimum_participants": 5,
+  "additional_info": {
+    "context": "Our team is building a decentralized lending protocol that requires high throughput and low gas fees.",
+    "criteria": [
+      "Development ecosystem maturity",
+      "Gas costs and transaction speed",
+      "Security and audit availability",
+      "Community and documentation quality",
+      "Future roadmap alignment"
+    ],
+    "deadline_note": "Voting closes in 3 days. Final decision will be announced after thorough analysis of results."
+  }
+}
