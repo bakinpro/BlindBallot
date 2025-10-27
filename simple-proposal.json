@@ -1,0 +1,16 @@
+{
+  "title": "Implement 4-Day Work Week Trial",
+  "description": "Proposal to implement a 6-month trial of a 4-day work week (32 hours) while maintaining current salary levels. This would improve work-life balance and potentially increase productivity based on successful trials at other companies.",
+  "options": [
+    "Support - Yes",
+    "Oppose - No"
+  ],
+  "duration_hours": 48,
+  "category": "Policy Change",
+  "voting_type": "binary_choice",
+  "additional_info": {
+    "context": "Multiple studies show 4-day work weeks can increase productivity while reducing employee burnout and improving retention rates.",
+    "implementation": "If approved, trial would begin next quarter with monthly progress reviews.",
+    "success_criteria": "Maintained productivity levels, improved employee satisfaction scores, and stable client service delivery"
+  }
+}
