@@ -1,0 +1,13 @@
+{
+  "contractAddress": "0x0000000000000000000000000000000000000000",
+  "deployerAddress": "0x0000000000000000000000000000000000000000",
+  "network": "sepolia",
+  "chainId": 11155111,
+  "deploymentTime": "2025-09-08T09:25:02.739Z",
+  "blockNumber": 9159150,
+  "fheConfig": {
+    "chainId": 11155111,
+    "publicKey": "0x...",
+    "gatewayUrl": "https://gateway.sepolia.zama.ai"
+  }
+}
